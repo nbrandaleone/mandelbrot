@@ -1,0 +1,4 @@
+/target
+/www/pkg
+.server.pid
+.DS_Store
